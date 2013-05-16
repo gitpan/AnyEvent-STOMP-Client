@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               AnyEvent-STOMP-Client
-version:            0.1
+version:            0.11
 abstract:           An event-based non-blocking STOMP 1.2 client based on AnyEvent and Object::Event.
 author:
     - Raphael Seebacher <raphael@seebachers.ch>
@@ -17,7 +17,7 @@ no_index:
     directory:
         - t
         - inc
-generated_by:       ExtUtils::MakeMaker version 6.56
+generated_by:       ExtUtils::MakeMaker version 6.57_05
 meta-spec:
     url:      http://module-build.sourceforge.net/META-spec-v1.4.html
     version:  1.4
