@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               AnyEvent-STOMP-Client
-version:            0.11
+version:            0.2
 abstract:           An event-based non-blocking STOMP 1.2 client based on AnyEvent and Object::Event.
 author:
     - Raphael Seebacher <raphael@seebachers.ch>
