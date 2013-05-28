@@ -20,4 +20,4 @@ no_index:
 requires:
   AnyEvent: 7.04
   Object::Event: 1.23
-version: 0.22
+version: 0.23
