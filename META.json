@@ -4,7 +4,7 @@
       "Raphael Seebacher <raphael@seebachers.ch>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.8, CPAN::Meta::Converter version 2.120351",
+   "generated_by" : "ExtUtils::MakeMaker version 6.82, CPAN::Meta::Converter version 2.120351",
    "license" : [
       "perl_5"
    ],
@@ -25,18 +25,20 @@
             "ExtUtils::MakeMaker" : "0"
          }
       },
-      "configure" : {
-         "requires" : {
-            "ExtUtils::MakeMaker" : "0"
-         }
-      },
       "runtime" : {
          "requires" : {
-            "AnyEvent" : "7.04",
+            "AnyEvent" : "7.05",
             "Object::Event" : "1.23"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.31"
+   "resources" : {
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/raphiniert/AnyEvent-STOMP-Client.git",
+         "web" : "https://github.com/raphiniert/AnyEvent-STOMP-Client"
+      }
+   },
+   "version" : "0.32"
 }
