@@ -20,4 +20,4 @@ requires:
   Object::Event: 1.23
 resources:
   repository: git://github.com/raphiniert/AnyEvent-STOMP-Client.git
-version: 0.32
+version: 0.33
