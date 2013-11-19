@@ -5,7 +5,7 @@ author:
 build_requires:
   ExtUtils::MakeMaker: 0
 dynamic_config: 1
-generated_by: 'ExtUtils::MakeMaker version 6.82, CPAN::Meta::Converter version 2.120351'
+generated_by: 'ExtUtils::MakeMaker version 6.82, CPAN::Meta::Converter version 2.132830'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -20,4 +20,4 @@ requires:
   Object::Event: 1.23
 resources:
   repository: git://github.com/raphiniert/AnyEvent-STOMP-Client.git
-version: 0.33
+version: 0.34
